@@ -9,6 +9,10 @@ public class HomePageTest {
 public HomePageTest(){
 	hp=new HomePage();
 	dp=new DressPageObject();
+
+public HomePageTest(){
+	hp=new HomePage();
+	dp=new DressPageObject();
 	
 }
 @Test

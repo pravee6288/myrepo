@@ -24,4 +24,11 @@ public class HomePage extends BasePage {
 			Casualdressbtn.click();	
 	
 	}
+
+public void CasualDressclk()
+		{
+			
+			Casualdressbtn.click();	
+	
+	}
 }
